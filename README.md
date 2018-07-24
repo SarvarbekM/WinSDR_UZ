@@ -1,2 +1,2 @@
 # WinSDR_UZ
-This program is used for receive MSEED files from IRIS-Seismic station
+This program is used for receive MSEED files from IRIS-Seismic station using Seedlink protocol
